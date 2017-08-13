@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-aop" />
+        <module name="springboot-errorpage" />
+        <module name="springboot-exception" />
+        <module name="springboot-freemark" />
+        <module name="springboot-jsp" />
+        <module name="springboot-logback" />
+        <module name="springboot-mybatis" />
+        <module name="springboot-poi" />
+        <module name="springboot-property" />
+        <module name="springboot-schedule" />
+        <module name="springboot-servlet" />
+        <module name="springboot-session" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot" target="1.7" />
+      <module name="springboot-aop" target="1.7" />
+      <module name="springboot-errorpage" target="1.7" />
+      <module name="springboot-exception" target="1.7" />
+      <module name="springboot-freemark" target="1.7" />
+      <module name="springboot-jsp" target="1.7" />
+      <module name="springboot-logback" target="1.7" />
+      <module name="springboot-mybatis" target="1.7" />
+      <module name="springboot-poi" target="1.7" />
+      <module name="springboot-property" target="1.7" />
+      <module name="springboot-schedule" target="1.7" />
+      <module name="springboot-servlet" target="1.7" />
+      <module name="springboot-session" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
